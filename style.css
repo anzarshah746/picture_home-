@@ -6,8 +6,10 @@ body {
 }
 
 .hero {
-    background: linear-gradient(to right, #ffcc00, #ff9900);
-    height: 100vh;
+    height: 100vh; /* Full viewport height */
+      background-color: #74ff02f6; /* Change this to your desired color or background-image */
+      background-size: cover;
+      background-position: center;
 }
 
 .hero h1 {
